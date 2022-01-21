@@ -4,6 +4,7 @@
 
 |                                                                                                                                                                                                                  | date       |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [Using the CSS Me Not Bookmarklet to See (and Disable) CSS Files](https://css-tricks.com/css-me-not-bookmarklet/)                                                                                                | 1/21       |
 | [Guess CSS!](https://www.guess-css.app)                                                                                                                                                                          | 1/14       |
 | [Codier Challenges](https://codier.io)                                                                                                                                                                           | 10/8       |
 | [How to calculate REMs from pixels](https://typeofnan.dev/how-to-calculate-rems-from-pixels/)                                                                                                                    | 9/28       |
