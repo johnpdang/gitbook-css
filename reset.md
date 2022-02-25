@@ -1,6 +1,9 @@
 # Reset
 
-{% embed url="https://dev.to/hankchizljaw/a-modern-css-reset-6p3" %}
+|                                                                                                                                             |      |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| [Your CSS reset needs text-size-adjust (probably)](https://css-tricks.com/your-css-reset-needs-text-size-adjust-probably/?ref=usepanda.com) | 2/25 |
+| [A Modern CSS Reset](https://dev.to/hankchizljaw/a-modern-css-reset-6p3)                                                                    |      |
 
 ```css
 /* Box sizing rules */
@@ -82,4 +85,3 @@ select {
   }
 }
 ```
-
