@@ -30,6 +30,7 @@
 * [Grid](grid.md)
 * [Hover](hover.md)
 * [iFrames](iframes.md)
+* [Images](images.md)
 * [Layout](layout.md)
 * [Libraries](libraries.md)
 * [Lists](lists.md)
