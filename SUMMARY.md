@@ -52,6 +52,7 @@
   * [Focus style](states/focus-style.md)
   * [Hover, focus, active](states/hover-focus-active.md)
 * [SVG](svg.md)
+* [Text](text.md)
 * [Transform](transform.md)
 * [Transition](transition.md)
 * [Variables](variables.md)
