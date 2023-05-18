@@ -15,6 +15,7 @@
 * [Components](components/README.md)
   * [Card](components/card.md)
   * [Sidebar](components/sidebar.md)
+* [Conditional](conditional.md)
 * [Container queries](container-queries.md)
 * [Display](display.md)
 * [Education](todo.md)
