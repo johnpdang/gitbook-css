@@ -2,6 +2,7 @@
 
 |                                                                                                                                                         |            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [Do not drop Sass for CSS](https://dev.to/robole/do-not-drop-sass-for-css-1ofm)                                                                         | 6/3/23     |
 | [Is it time to drop Sass?](https://gomakethings.com/is-it-time-to-drop-sass/)                                                                           | 5/19/23    |
 | [7 Tips That Will Help You Get The Best Out Of Sass](https://medium.com/weekly-webtips/7-tips-that-will-help-you-get-the-best-out-of-sass-bafc923634ba) | 9/17       |
 | [How to use CSS variables with sass mixins](https://www.techhive.io/our-insights/how-to-use-css-variables-with-sass-mixins)                             | 9/14       |
