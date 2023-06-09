@@ -4,6 +4,7 @@
 
 |                                                                                                                                                                                                                  | date       |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [Why we're bad at CSS](https://www.mikeaparicio.com/posts/2023-05-22-why-were-bad-at-css/)                                                                                                                       | 6/9/23     |
 | [9 Lesser-Known CSS Properties](https://levelup.gitconnected.com/9-lesser-known-css-properties-83b7eef54bf2)                                                                                                     | 6/4/23     |
 | [What's new in CSS and UI: I/O 2023 Edition](https://developer.chrome.com/en/blog/whats-new-css-ui-2023/)                                                                                                        | 5/15/23    |
 | [Using the CSS Me Not Bookmarklet to See (and Disable) CSS Files](https://css-tricks.com/css-me-not-bookmarklet/)                                                                                                | 1/21       |
