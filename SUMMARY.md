@@ -39,6 +39,7 @@
 * [Media queries](media-queries.md)
 * [Modals](modals.md)
 * [Navigation](navigation.md)
+* [Nesting](nesting.md)
 * [Position](position.md)
 * [Pseudo](pseudo.md)
 * [Reset](reset.md)
