@@ -4,6 +4,7 @@
 
 |                                                                                                                                                                                                                  | date       |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [Writing CSS In 2023: Is It Any Different Than A Few Years Ago?](https://www.smashingmagazine.com/2023/07/writing-css-2023/)                                                                                     | 7/18/23    |
 | [Modern CSS in Real Life](https://chriscoyier.net/2023/06/06/modern-css-in-real-life/)                                                                                                                           | 6/22/23    |
 | [CSS to elevate your applications](https://medium.com/@regansvoboda/css-to-make-your-applications-stand-out-or-css-to-elevate-your-application-3c4e0d92f2a2)                                                     | 6/19/23    |
 | [Why we're bad at CSS](https://www.mikeaparicio.com/posts/2023-05-22-why-were-bad-at-css/)                                                                                                                       | 6/9/23     |
