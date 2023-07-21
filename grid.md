@@ -1,7 +1,8 @@
 # Grid
 
-| [Practical CSS Subgrid Video Tutorials](https://www.bram.us/2021/11/04/practical-css-subgrid-video-tutorials/)                                                                     | 11/12      |
+| [How to create a responsive grid system with CSS Grid](https://gomakethings.com/how-to-create-a-responsive-grid-system-with-css-grid/)                                             | 7/21/23    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [Practical CSS Subgrid Video Tutorials](https://www.bram.us/2021/11/04/practical-css-subgrid-video-tutorials/)                                                                     | 11/12      |
 | [Why did we make CSS Grid Tooling?](https://developer.chrome.com/blog/css-grid-tooling/)                                                                                           | 8/25       |
 | [Top 7 CSS Grid Layout Concepts With Examples](https://betterprogramming.pub/top-7-css-grid-layout-concepts-with-examples-18c85e4d0b27)                                            | 5/10       |
 | [CSS Grid Cheat Sheet Illustrated in 2021](https://dev.to/joyshaheb/css-grid-cheat-sheet-illustrated-in-2021-1a3)                                                                  | 3/7        |
