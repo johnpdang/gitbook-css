@@ -34,6 +34,7 @@
 * [Images](images.md)
 * [Layout](layout.md)
 * [Libraries](libraries.md)
+* [Link](link.md)
 * [Lists](lists.md)
 * [Margin](margin.md)
 * [Media queries](media-queries.md)
