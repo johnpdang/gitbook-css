@@ -29,6 +29,7 @@
 * [Generators](generators.md)
 * [Gradients](gradients.md)
 * [Grid](grid.md)
+* [Hero](hero.md)
 * [Hover](hover.md)
 * [iFrames](iframes.md)
 * [Images](images.md)
