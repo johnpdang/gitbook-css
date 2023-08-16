@@ -1,11 +1,11 @@
 # Best Practices
 
-|  |  |
-| :--- | :--- |
-| [Getting Your head Straight: A New CSS Performance Diagnostics Snippet](https://www.smashingmagazine.com/2021/09/css-head-tag/) | 10/1 |
-| [CSS Hell](https://csshell.dev/) | 5/7 |
-| [7 CSS Tips To Save Your Sanity](https://dev.to/okeeffed/7-css-tips-to-save-your-sanity-2a44?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email) | 7/8 |
-| [CSS Architecture: BEMCSS — Block, Element & Modifier](https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218) | 3/12 |
-| [BEM](http://getbem.com/) |  |
-| [Improve your CSS with these 5 principles](https://dev.to/prototyp/improve-your-css-with-these-5-principles-35jd) |  |
-
+|                                                                                                                                                                                                                                               |         |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Essential CSS Tips and Tricks Every Developer Should Know](https://www.thetechedvocate.org/essential-css-tips-and-tricks-every-developer-should-know/?utm\_campaign=Frontend%2BWeekly\&utm\_medium=email\&utm\_source=Frontend\_Weekly\_371) | 8/16/23 |
+| [Getting Your head Straight: A New CSS Performance Diagnostics Snippet](https://www.smashingmagazine.com/2021/09/css-head-tag/)                                                                                                               | 10/1    |
+| [CSS Hell](https://csshell.dev/)                                                                                                                                                                                                              | 5/7     |
+| [7 CSS Tips To Save Your Sanity](https://dev.to/okeeffed/7-css-tips-to-save-your-sanity-2a44?utm\_source=digest\_mailer\&utm\_medium=email\&utm\_campaign=digest\_email)                                                                      | 7/8     |
+| [CSS Architecture: BEMCSS — Block, Element & Modifier](https://medium.com/@mjtweaver/css-architecture-bemcss-block-element-modifier-e642bd0f4218)                                                                                             | 3/12    |
+| [BEM](http://getbem.com/)                                                                                                                                                                                                                     |         |
+| [Improve your CSS with these 5 principles](https://dev.to/prototyp/improve-your-css-with-these-5-principles-35jd)                                                                                                                             |         |
