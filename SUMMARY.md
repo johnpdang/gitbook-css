@@ -3,6 +3,7 @@
 * [Pages](README.md)
 * [Accessibility](accessibility.md)
 * [Animation](animation/README.md)
+  * [Bezier curve](animation/bezier-curve.md)
   * [Fade](animation/fadein.md)
 * [Background](background.md)
 * [BEM](bem.md)
