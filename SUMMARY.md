@@ -18,6 +18,7 @@
   * [Sidebar](components/sidebar.md)
 * [Conditional](conditional.md)
 * [Container queries](container-queries.md)
+* [Data types](data-types.md)
 * [Display](display.md)
 * [Education](todo.md)
 * [Flexbox](flexbox/README.md)
