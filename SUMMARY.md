@@ -16,6 +16,7 @@
 * [Components](components/README.md)
   * [Card](components/card.md)
   * [Sidebar](components/sidebar.md)
+  * [Tooltips](components/tooltips.md)
 * [Conditional](conditional.md)
 * [Container queries](container-queries.md)
 * [Data types](data-types.md)
