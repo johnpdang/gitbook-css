@@ -2,6 +2,7 @@
 
 |                                                                                                                                                              |         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
+| [Simplify Your CSS Using :is() and :where() Pseudo-Classes](https://www.youtube.com/watch?v=NnaBX6SypR8)                                                     | 3/10/24 |
 | [Understanding the Difference Between : and :: in CSS](https://medium.com/@islizeqiang/understanding-the-difference-between-and-in-css-64c9d36c21af)         | 6/16/23 |
 | [9 CSS Pseudo-Elements You Didn’t Know About](https://javascript.plainenglish.io/9-css-pseudo-elements-you-didnt-know-about-bb0faa395986)                    | 6/2/23  |
 | [Animated Grid Tracks with :has()](https://css-irl.info/animated-grid-tracks-with-has/)                                                                      | 4/15    |
