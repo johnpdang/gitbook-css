@@ -4,6 +4,7 @@
 
 |                                                                                                                                                                                                                  | date       |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [Playing with Infinity in CSS](https://codersblock.com/blog/playing-with-infinity-in-css/?utm\_source=tldrwebdev)                                                                                                | 3/11/24    |
 | [CSS Tips And Tricks I Wish I Knew Before](https://www.youtube.com/watch?v=2KWdT4PkXgY)                                                                                                                          | 8/30/23    |
 | [Writing CSS In 2023: Is It Any Different Than A Few Years Ago?](https://www.smashingmagazine.com/2023/07/writing-css-2023/)                                                                                     | 7/18/23    |
 | [Modern CSS in Real Life](https://chriscoyier.net/2023/06/06/modern-css-in-real-life/)                                                                                                                           | 6/22/23    |
