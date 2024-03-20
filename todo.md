@@ -4,6 +4,7 @@
 
 |                                                                                                                                                                                                                                                   | date       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [My New Favorite CSS Trick: will-change](https://dev.to/highflyer910/my-new-favorite-css-trick-will-change-5791)                                                                                                                                  | 3/20/24    |
 | [Top 5 CSS Mistakes made by Front End Engineers](https://www.greatfrontend.com/blog/top-css-mistakes-made-by-front-end-engineers?utm\_source=convertkit\&utm\_medium=email\&utm\_campaign=Syntax%20Snack%20Pack%20-%20Issue%20#15%20-%2013339703) | 3/14/24    |
 | [Playing with Infinity in CSS](https://codersblock.com/blog/playing-with-infinity-in-css/?utm\_source=tldrwebdev)                                                                                                                                 | 3/11/24    |
 | [CSS Tips And Tricks I Wish I Knew Before](https://www.youtube.com/watch?v=2KWdT4PkXgY)                                                                                                                                                           | 8/30/23    |
