@@ -4,6 +4,7 @@
 
 |                                                                                                                                                                                                                                                   | date       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [10 Practical CSS Tricks every developer should know](https://flexiple.com/javascript/10-practical-css-tricks-every-developer-should-know)                                                                                                        | 4/3/24     |
 | [What You Need to Know about Modern CSS (Spring 2024 Edition)](https://frontendmasters.com/blog/what-you-need-to-know-about-modern-css-spring-2024-edition/?utm\_source=tldrwebdev)                                                               | 3/28/24    |
 | [My New Favorite CSS Trick: will-change](https://dev.to/highflyer910/my-new-favorite-css-trick-will-change-5791)                                                                                                                                  | 3/20/24    |
 | [Top 5 CSS Mistakes made by Front End Engineers](https://www.greatfrontend.com/blog/top-css-mistakes-made-by-front-end-engineers?utm\_source=convertkit\&utm\_medium=email\&utm\_campaign=Syntax%20Snack%20Pack%20-%20Issue%20#15%20-%2013339703) | 3/14/24    |
