@@ -2,7 +2,7 @@
 
 |                                                                                                                                                                              |         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| [CSS color-scheme-dependent colors with light-dark()](https://web.dev/articles/light-dark?ref=usepanda.com)                                                                  | 4/5/24  |
+| [CSS color-scheme-dependent colors with light-dark()](https://web.dev/articles/light-dark?ref=usepanda.com)                                                                  | 4/6/24  |
 | [CSS new magic color() has been supported by all major engines](https://javascript.plainenglish.io/css-new-magic-color-has-been-supported-by-all-major-engines-33c38d86147c) | 6/15/23 |
 | [Mastering CSS Blend Modes](https://www.kodingkitty.com/blog/blend-modes/)                                                                                                   | 6/7/23  |
 | [High-contrast — when you think dark mode is enough](https://uxdesign.cc/high-contrast-when-you-think-the-dark-mode-is-enough-d190218d4bba)                                  | 5/17/23 |
