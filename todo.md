@@ -4,6 +4,7 @@
 
 |                                                                                                                                                                                                                                                   | date       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [Testing HTML With Modern CSS](https://heydonworks.com/article/testing-html-with-modern-css/)                                                                                                                                                     | 4/21/24    |
 | [10 Practical CSS Tricks every developer should know](https://flexiple.com/javascript/10-practical-css-tricks-every-developer-should-know)                                                                                                        | 4/3/24     |
 | [What You Need to Know about Modern CSS (Spring 2024 Edition)](https://frontendmasters.com/blog/what-you-need-to-know-about-modern-css-spring-2024-edition/?utm\_source=tldrwebdev)                                                               | 3/28/24    |
 | [My New Favorite CSS Trick: will-change](https://dev.to/highflyer910/my-new-favorite-css-trick-will-change-5791)                                                                                                                                  | 3/20/24    |
