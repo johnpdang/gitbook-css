@@ -1,7 +1,8 @@
 # Grid
 
-| [Help us invent CSS Grid Level 3, aka “Masonry” layout](https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/)                                        | 4/22/24    |
+| [Printing music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)                                                                                             | 5/3/24     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [Help us invent CSS Grid Level 3, aka “Masonry” layout](https://webkit.org/blog/15269/help-us-invent-masonry-layouts-for-css-grid-level-3/)                                        | 4/22/24    |
 | [How to create a responsive grid system with CSS Grid](https://gomakethings.com/how-to-create-a-responsive-grid-system-with-css-grid/)                                             | 7/21/23    |
 | [Practical CSS Subgrid Video Tutorials](https://www.bram.us/2021/11/04/practical-css-subgrid-video-tutorials/)                                                                     | 11/12      |
 | [Why did we make CSS Grid Tooling?](https://developer.chrome.com/blog/css-grid-tooling/)                                                                                           | 8/25       |
