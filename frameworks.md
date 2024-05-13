@@ -2,6 +2,7 @@
 
 |                                                                                                                                     |         |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [You Don’t Need a CSS Framework](https://www.infoq.com/articles/no-need-css-framework/?utm\_source=tldrwebdev)                      | 5/13/24 |
 | [😡 Top 6 Reasons to Hate Tailwind CSS](https://itnext.io/top-6-reasons-to-hate-tailwind-css-8009ea96e300)                          | 9/26/23 |
 | [What's your problem with Tailwind?](https://gomakethings.com/whats-your-problem-with-tailwind/)                                    | 5/8/23  |
 | [Tailwind CSS Is (Probably) Overhyped](https://medium.com/better-programming/tailwind-css-is-probably-overhyped-5272e5d58d4e)       | 2/7     |
