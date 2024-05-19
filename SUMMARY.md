@@ -19,6 +19,7 @@
   * [Tooltips](components/tooltips.md)
 * [Conditional](conditional.md)
 * [Container queries](container-queries.md)
+* [Custom property](custom-property.md)
 * [Data types](data-types.md)
 * [Display](display.md)
 * [Education](todo.md)
