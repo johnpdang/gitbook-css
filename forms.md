@@ -1,7 +1,11 @@
 # Forms
 
-|  |  |
-| :--- | :--- |
-| [One last time: custom styling radio buttons and checkboxes](https://www.scottohara.me/blog/2021/09/24/custom-radio-checkbox-again.html) | 9/27 |
-| [Simplifying Form Styles With accent-color](https://www.smashingmagazine.com/2021/09/simplifying-form-styles-accent-color/?utm_campaign=Frontend%20Horse%20Newsletter&utm_medium=email&utm_source=Revue%20newsletter) | 9/24 |
+|                                                                                                                                              |        |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| [Creating a textarea character limit indicator](https://dev.to/sarahokolo/creating-a-textarea-character-limit-indicator-5fol?context=digest) | 4/7/24 |
+| [Inclusive inputs](https://gomakethings.com/inclusive-inputs/?mc\_cid=83854ae089\&mc\_eid=\[UNIQID])                                         | 5/8    |
 
+|                        |                                                                                                |
+| ---------------------- | ---------------------------------------------------------------------------------------------- |
+| Peeky Placeholders     | [https://codepen.io/lukeandrewreid/pen/OVPGXN](https://codepen.io/lukeandrewreid/pen/OVPGXN)   |
+| Minimal form interface | [https://tympanus.net/Development/MinimalForm/](https://tympanus.net/Development/MinimalForm/) |

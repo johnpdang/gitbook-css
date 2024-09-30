@@ -1,7 +1,12 @@
 # Navigation
 
-|                                                                                                                                                                    |         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
-| [Blink: Intent to Ship: CSS Anchor Positioning](https://twitter.com/jh3yy/status/1778946758510260727)                                                              | 4/15/24 |
-| [Create direction-aware effects using modern CSS](https://www.youtube.com/watch?v=G\_h2pGZcOzc)                                                                    | 8/10/23 |
-| [How to create a sticky navigation with only CSS](https://gomakethings.com/how-to-create-a-sticky-navigation-with-only-css/?mc\_cid=d9d528978a\&mc\_eid=\[UNIQID]) | 3/2     |
+|                                                                                                                                                                                                  |         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
+| [Animated Navigation Menu](https://dev.to/alvaromontoro/animated-navigation-menu-57o7?context=digest)                                                                                            | 5/21/24 |
+| [Designing Sticky Menus: UX Guidelines](https://www.smashingmagazine.com/2023/05/sticky-menus-ux-guidelines/?ref=web-design-weekly.com)                                                          | 5/17/23 |
+| [https://jonsuh.com/hamburgers/](https://jonsuh.com/hamburgers/)                                                                                                                                 |         |
+| [https://tympanus.net/Tutorials/CircularNavigation/index.html](https://tympanus.net/Tutorials/CircularNavigation/index.html)                                                                     |         |
+| [https://www.prowebdesign.ro/fast-easy-wordpress-mega-menu-without-plugins/](https://www.prowebdesign.ro/fast-easy-wordpress-mega-menu-without-plugins/)                                         |         |
+| [https://medium.com/level-up-web/20-responsive-navigation-solutions-examples-codes-21644390afeb](https://medium.com/level-up-web/20-responsive-navigation-solutions-examples-codes-21644390afeb) |         |
+| [https://tympanus.net/Development/ResponsiveMultiLevelMenu/index.html#](https://tympanus.net/Development/ResponsiveMultiLevelMenu/index.html)                                                    |         |
+| [https://lokeshdhakar.com/dev-201-stripe.coms-main-navigation/](https://lokeshdhakar.com/dev-201-stripe.coms-main-navigation/)                                                                   |         |

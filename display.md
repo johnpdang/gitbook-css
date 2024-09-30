@@ -1,6 +1,8 @@
 # Display
 
-|  |  |
-| :--- | :--- |
-| [Inherit, initial, unset, revert](https://www.quirksmode.org/blog/archives/2021/06/inherit_initial.html) | 7/16 |
-
+|                                                                                                                |         |
+| -------------------------------------------------------------------------------------------------------------- | ------- |
+| [CSS display contents](https://app.daily.dev/posts/css-display-contents-rtl9mzrfu)                             | 9/8/24  |
+| [align-items: center vs. text-align: center](https://kyleshevlin.com/align-items-center-vs-text-align-center/) | 6/18/24 |
+| [We can now transition to and from display: none](https://www.youtube.com/watch?v=vmDEHAzj2XE)                 | 6/16/24 |
+| [The Gap](https://ishadeed.com/article/the-gap/#the-gap-property)                                              | 6/3/24  |

@@ -1,8 +1,7 @@
 # Nesting
 
-|                                                                                                   |         |
-| ------------------------------------------------------------------------------------------------- | ------- |
-| [The gotchas of CSS Nesting](https://kilianvalkhof.com/2023/css-html/the-gotchas-of-css-nesting/) | 6/14/23 |
-|                                                                                                   |         |
-|                                                                                                   |         |
-|                                                                                                   |         |
+|                                                                                                                                         |        |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| [Using CSS nesting - CSS: Cascading Style Sheets](https://app.daily.dev/posts/using-css-nesting---css-cascading-style-sheets-ezkf94z1q) | 9/7/24 |
+|                                                                                                                                         |        |
+|                                                                                                                                         |        |
