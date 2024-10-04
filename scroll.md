@@ -1,7 +1,7 @@
 # Scroll
 
-|                                                                                                                                                                            |         |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| [Create an Infinite Horizontal Scroll Animation with Tailwind CSS](https://app.daily.dev/posts/create-an-infinite-horizontal-scroll-animation-with-tailwind-css-thoj6hxyd) | 8/18/24 |
-| [Animate an Auto-Scrolling Carousel with Only HTML and CSS](https://app.daily.dev/posts/animate-an-auto-scrolling-carousel-with-only-html-and-css-yvgauteyf)               | 9/2/24  |
-|                                                                                                                                                                            |         |
+|                                                                                                                                                                                                                                                                      |         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Solved by CSS Scroll-Driven Animations: hide a header when scrolling up, show it again when scrolling down.](https://www.bram.us/2024/09/29/solved-by-css-scroll-driven-animations-hide-a-header-when-scrolling-up-show-it-again-when-scrolling-down/?ref=dailydev) | 10/4/24 |
+| [Create an Infinite Horizontal Scroll Animation with Tailwind CSS](https://app.daily.dev/posts/create-an-infinite-horizontal-scroll-animation-with-tailwind-css-thoj6hxyd)                                                                                           | 8/18/24 |
+| [Animate an Auto-Scrolling Carousel with Only HTML and CSS](https://app.daily.dev/posts/animate-an-auto-scrolling-carousel-with-only-html-and-css-yvgauteyf)                                                                                                         | 9/2/24  |
