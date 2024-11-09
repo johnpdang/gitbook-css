@@ -67,6 +67,7 @@
 * [Images](images.md)
 * [Loader](loader.md)
 * [Links](links.md)
+* [Masks](masks.md)
 * [Media Queries](media-queries.md)
 * [Misc](misc/README.md)
   * [Gifs](misc/gifs.md)
