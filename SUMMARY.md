@@ -30,6 +30,7 @@
 * [Container](container.md)
 * [Cookies](cookies.md)
 * [CI/CD](ci-cd.md)
+* [Cursor](cursor.md)
 * [Data](data.md)
 * [Display](display.md)
 * [Docker](docker.md)
