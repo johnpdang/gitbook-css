@@ -101,6 +101,7 @@
   * [README.md](starter-files/readme.md.md)
   * [webpack.config.js](starter-files/webpack.config.js.md)
 * [SVG](svg.md)
+* [Table](table.md)
 * [Tech](tech.md)
 * [Terminal](terminal/README.md)
   * [Aliases](terminal/aliases.md)
