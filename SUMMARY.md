@@ -87,6 +87,7 @@
 * [Resources](resources.md)
 * [Responsive](responsive.md)
 * [Scroll](scroll.md)
+* [Scope](scope.md)
 * [SCSS](scss.md)
 * [Server](server/README.md)
   * [Serverless services](server/serverless-services.md)
