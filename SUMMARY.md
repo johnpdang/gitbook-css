@@ -9,7 +9,7 @@
 * [Animation](animation.md)
 * [API](api.md)
 * [Background](background.md)
-* [Border-radius](border-radius.md)
+* [Border](border.md)
 * [Box](box.md)
 * [Browsers](browsers/README.md)
   * [Chrome](browsers/chrome/README.md)
