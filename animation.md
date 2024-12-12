@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                          |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
+| [Create a Simple Pulsating Animation](https://allaboutcoding.ghinda.com/how-to-make-a-small-pulsating-animation?ref=dailydev)                                            | 12/12/24 |
 | [Crazy Text Animation with CSS and SVG](https://www.youtube.com/watch?v=lur8SDdUzPI)                                                                                     | 12/5/24  |
 | [The King Of CSS Timing Functions \| CSS Steps](https://www.youtube.com/watch?v=b6dI42vEsrs\&t=28s)                                                                      | 10/29/24 |
 | [Teleport To The Future in CSS Animation With Animation-Delay](https://www.youtube.com/watch?v=ihfRJ-2_d5w)                                                              | 9/29/24  |
