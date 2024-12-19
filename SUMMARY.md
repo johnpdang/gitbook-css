@@ -67,6 +67,7 @@
 * [Gradients](gradients.md)
 * [Grid](grid.md)
 * [Images](images.md)
+* [Layout](layout.md)
 * [Loader](loader.md)
 * [Links](links.md)
 * [Masks](masks.md)
