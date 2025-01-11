@@ -34,6 +34,7 @@
 * [CI/CD](ci-cd.md)
 * [Cursor](cursor.md)
 * [Data](data.md)
+* [Dialog](dialog.md)
 * [Display](display.md)
 * [Docker](docker.md)
 * [Domains](domains.md)
