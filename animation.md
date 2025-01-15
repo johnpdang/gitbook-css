@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                          |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
+| [Smoothly stop an infinite rotation](https://css-tip.com/stop-animation/?ref=dailydev)                                                                                   | 1/15/25  |
 | [Smooth rotation with modern CSS](https://css-tip.com/smooth-rotation/?ref=dailydev)                                                                                     | 1/3/25   |
 | [Create a Simple Pulsating Animation](https://allaboutcoding.ghinda.com/how-to-make-a-small-pulsating-animation?ref=dailydev)                                            | 12/12/24 |
 | [Crazy Text Animation with CSS and SVG](https://www.youtube.com/watch?v=lur8SDdUzPI)                                                                                     | 12/5/24  |
