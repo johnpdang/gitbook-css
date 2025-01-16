@@ -1,8 +1,9 @@
 # Component library
 
-|                                                                                                                                                                                  |       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
-| [Do you think your component library is your design system? Think again](https://uxdesign.cc/do-you-think-your-component-library-is-your-design-system-think-again-7e2c902b5275) | 11/28 |
+|                                                                                                                                                                                  |         |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Browse the best website hero section designs](https://app.daily.dev/posts/browse-the-best-website-hero-section-designs-t6adg93cj)                                               | 1/16/25 |
+| [Do you think your component library is your design system? Think again](https://uxdesign.cc/do-you-think-your-component-library-is-your-design-system-think-again-7e2c902b5275) | 11/28   |
 
 |                                   |                                                                          |
 | --------------------------------- | ------------------------------------------------------------------------ |
