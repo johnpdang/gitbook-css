@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                  |         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
+| [Fancy Menu Navigation Using Anchor Positioning](https://css-tricks.com/fancy-menu-navigation-using-anchor-positioning/?ref=dailydev)                                                            | 1/17/25 |
 | [Animated Navigation Menu](https://dev.to/alvaromontoro/animated-navigation-menu-57o7?context=digest)                                                                                            | 5/21/24 |
 | [Designing Sticky Menus: UX Guidelines](https://www.smashingmagazine.com/2023/05/sticky-menus-ux-guidelines/?ref=web-design-weekly.com)                                                          | 5/17/23 |
 | [https://jonsuh.com/hamburgers/](https://jonsuh.com/hamburgers/)                                                                                                                                 |         |
