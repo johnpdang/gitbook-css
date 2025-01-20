@@ -2,6 +2,7 @@
 
 |                                                                                                                                                      |          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [You can now build AWESOME TailwindCSS Animations!](https://www.youtube.com/watch?v=-Upbnoj9iMk)                                                     | 1/20/25  |
 | [Tailwind CSS Starter Kit](https://app.daily.dev/posts/tailwind-css-starter-kit-bcvctr6xt)                                                           | 1/14/25  |
 | [200+ Tailwind CSS Resources: Tools, Tutorials, and More](https://app.daily.dev/posts/200-tailwind-css-resources-tools-tutorials-and-more-yoqcyrmjt) | 12/15/24 |
 | [Tailwind CSS Patterns](https://app.daily.dev/posts/tailwind-css-patterns-asycv1q65)                                                                 | 11/7/24  |
