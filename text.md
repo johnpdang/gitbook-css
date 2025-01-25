@@ -2,6 +2,7 @@
 
 |                                                                                                                                                          |          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Positioning Text Around Elements With CSS Offset](https://app.daily.dev/posts/positioning-text-around-elements-with-css-offset-fc9d8hpns)               | 1/24/25  |
 | [CSS ::target-text for Text Highlighting](https://app.daily.dev/posts/css-target-text-for-text-highlighting-pxpex2ppj)                                   | 12/22/24 |
 | [You can use text-wrap: balance; on icons](https://shkspr.mobi/blog/2024/10/you-can-use-text-wrap-balance-on-icons/)                                     | 10/30/24 |
 | [CSS Typography Properties You Might Not Know About](https://webdeveloper.beehiiv.com/p/css-typography-properties-you-might-not-know-about?ref=dailydev) | 10/11/24 |
