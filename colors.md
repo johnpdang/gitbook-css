@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                           |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [The Infinite Color Palette Generator](https://app.daily.dev/posts/the-infinite-color-palette-generator-1vb5vrkvc)                                                        | 1/25/25  |
 | [Alternative Colors for Pure Black](https://app.daily.dev/posts/alternative-colors-for-pure-black-ijwzrkmjz)                                                              | 11/1/24  |
 | [Come to the light-dark() Side](https://css-tricks.com/come-to-the-light-dark-side/?ref=dailydev)                                                                         | 10/26/24 |
 | [CSS Color Properties You Might Not Know About](https://webdeveloper.beehiiv.com/p/css-color-properties-you-might-not-know-about?ref=dailydev)                            | 10/3/24  |
