@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                       |          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Fix your website's Largest Contentful Paint by optimizing image loading](https://app.daily.dev/posts/fix-your-website-s-largest-contentful-paint-by-optimizing-image-loading-1g8eeer09)                              | 1/26/25  |
 | [CSS content-visibility: The Web Performance Boost You Might Be Missing](https://app.daily.dev/posts/css-content-visibility-the-web-performance-boost-you-might-be-missing-ynuws3cka)                                 | 12/17/24 |
 | [5 easy tips to improve your personal website performance](https://dev.to/whitep4nth3r/5-easy-tips-to-improve-your-personal-website-performance-32ng?context=digest)                                                  | 5/17/24  |
 | [Why don’t we talk about minifying CSS anymore?](https://blog.sentry.io/why-dont-we-talk-about-minifying-css/)                                                                                                        | 5/11/24  |
