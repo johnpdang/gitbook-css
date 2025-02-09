@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                          |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
+| [Image Reveal Animation with HTML, CSS, and GSAP](https://app.daily.dev/posts/image-reveal-animation-with-html-css-and-gsap-y0bldirqk)                                   | 2/9/25   |
 | [Running animations without keyframes](https://app.daily.dev/posts/running-animations-without-keyframes-6jkpxl1n4)                                                       | 1/18/25  |
 | [Smoothly stop an infinite rotation](https://css-tip.com/stop-animation/?ref=dailydev)                                                                                   | 1/15/25  |
 | [Smooth rotation with modern CSS](https://css-tip.com/smooth-rotation/?ref=dailydev)                                                                                     | 1/3/25   |
