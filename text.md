@@ -2,6 +2,7 @@
 
 |                                                                                                                                                          |          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Modern fluid typography editor](https://modern-fluid-typography.vercel.app/?ref=dailydev)                                                               | 2/12/25  |
 | [Positioning Text Around Elements With CSS Offset](https://app.daily.dev/posts/positioning-text-around-elements-with-css-offset-fc9d8hpns)               | 1/24/25  |
 | [CSS ::target-text for Text Highlighting](https://app.daily.dev/posts/css-target-text-for-text-highlighting-pxpex2ppj)                                   | 12/22/24 |
 | [You can use text-wrap: balance; on icons](https://shkspr.mobi/blog/2024/10/you-can-use-text-wrap-balance-on-icons/)                                     | 10/30/24 |
