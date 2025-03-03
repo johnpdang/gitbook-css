@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                             |          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [CSS Container Queries, what are they?](https://app.daily.dev/posts/css-container-queries-what-are-they--wb2q7gvss)                                                         | 3/3/25   |
 | [Container query units: cqi and cqb](https://app.daily.dev/posts/container-query-units-cqi-and-cqb-taqetzk9c)                                                               | 2/16/25  |
 | [A Friendly Introduction to Container Queries • Josh W. Comeau](https://www.joshwcomeau.com/css/container-queries-introduction/?ref=dailydev)                               | 12/1/24  |
 | [contain - CSS: Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS/contain?ref=dailydev)                                                              | 11/21/24 |
