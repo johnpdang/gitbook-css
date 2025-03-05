@@ -2,6 +2,7 @@
 
 |                                                                                                                                                          |          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Perfectly center an uppercase text](https://css-tip.com/center-uppercase/?ref=dailydev)                                                                 | 3/5/25   |
 | [Trim extra space using text-box](https://css-tip.com/text-box/?ref=dailydev)                                                                            | 2/26/25  |
 | [Modern fluid typography editor](https://modern-fluid-typography.vercel.app/?ref=dailydev)                                                               | 2/12/25  |
 | [Positioning Text Around Elements With CSS Offset](https://app.daily.dev/posts/positioning-text-around-elements-with-css-offset-fc9d8hpns)               | 1/24/25  |
