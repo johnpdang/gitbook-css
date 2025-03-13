@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                             |          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [An infinite logos animation](https://css-tip.com/infinite-logos-animation/?ref=dailydev)                                                                                   | 3/13/25  |
 | [This might be the BEST UI animation library of 2025, it's insane!](https://app.daily.dev/posts/this-might-be-the-best-ui-animation-library-of-2025-it-s-insane--ucfzv5dkx) | 2/22/25  |
 | [Scroll Driven Animations Notebook](https://css-tricks.com/scroll-driven-animations-notebook/?ref=dailydev)                                                                 | 2/14/25  |
 | [Image Reveal Animation with HTML, CSS, and GSAP](https://app.daily.dev/posts/image-reveal-animation-with-html-css-and-gsap-y0bldirqk)                                      | 2/9/25   |
