@@ -72,6 +72,7 @@
 * [Layout](layout.md)
 * [Loader](loader.md)
 * [Links](links.md)
+* [Lists](lists.md)
 * [Masks](masks.md)
 * [Media Queries](media-queries.md)
 * [Misc](misc/README.md)
