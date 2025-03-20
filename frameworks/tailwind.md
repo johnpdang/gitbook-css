@@ -2,6 +2,7 @@
 
 |                                                                                                                                                      |          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Pure Tailwind CSS Components](https://app.daily.dev/posts/pure-tailwind-css-components-3xskxtgms)                                                   | 3/20/25  |
 | [You can now build AWESOME TailwindCSS Animations!](https://www.youtube.com/watch?v=-Upbnoj9iMk)                                                     | 1/20/25  |
 | [Tailwind CSS Starter Kit](https://app.daily.dev/posts/tailwind-css-starter-kit-bcvctr6xt)                                                           | 1/14/25  |
 | [200+ Tailwind CSS Resources: Tools, Tutorials, and More](https://app.daily.dev/posts/200-tailwind-css-resources-tools-tutorials-and-more-yoqcyrmjt) | 12/15/24 |
