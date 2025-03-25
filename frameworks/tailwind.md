@@ -2,6 +2,7 @@
 
 |                                                                                                                                                      |          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Tailwind CSS v4 Full Course 2025 \| Master Tailwind in One Hour](https://app.daily.dev/posts/xa8pr0rjl)                                             | 3/25/25  |
 | [Pure Tailwind CSS Components](https://app.daily.dev/posts/pure-tailwind-css-components-3xskxtgms)                                                   | 3/20/25  |
 | [You can now build AWESOME TailwindCSS Animations!](https://www.youtube.com/watch?v=-Upbnoj9iMk)                                                     | 1/20/25  |
 | [Tailwind CSS Starter Kit](https://app.daily.dev/posts/tailwind-css-starter-kit-bcvctr6xt)                                                           | 1/14/25  |
