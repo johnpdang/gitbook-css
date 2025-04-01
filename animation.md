@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                             |          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Animista: On-Demand CSS Animations Library](https://app.daily.dev/posts/animista-on-demand-css-animations-library-5ab2owbua)                                               | 4/1/25   |
 | [An infinite logos animation](https://css-tip.com/infinite-logos-animation/?ref=dailydev)                                                                                   | 3/13/25  |
 | [This might be the BEST UI animation library of 2025, it's insane!](https://app.daily.dev/posts/this-might-be-the-best-ui-animation-library-of-2025-it-s-insane--ucfzv5dkx) | 2/22/25  |
 | [Scroll Driven Animations Notebook](https://css-tricks.com/scroll-driven-animations-notebook/?ref=dailydev)                                                                 | 2/14/25  |
