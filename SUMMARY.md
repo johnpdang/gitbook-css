@@ -3,7 +3,7 @@
 * [Pages](README.md)
 * [404](404.md)
 * [Accessibility](accessibility.md)
-* [Accordio](accordio.md)
+* [Accordion](accordion.md)
 * [Age gate](age-gate.md)
 * [Ai](ai.md)
 * [Anchor](anchor.md)
