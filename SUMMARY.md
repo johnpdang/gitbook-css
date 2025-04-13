@@ -23,6 +23,7 @@
 * [Career](career/README.md)
   * [Cover letters](career/cover-letters.md)
   * [Interviewing](career/interviewing.md)
+* [Carousel](carousel.md)
 * [Cheatsheets](cheatsheets.md)
 * [Class](class.md)
 * [Colors](colors.md)
