@@ -118,6 +118,7 @@
 * [Tooltip](tooltip.md)
 * [Transform](transform.md)
 * [Transition](transition.md)
+* [Typography](typography.md)
 * [Variable](variable.md)
 * [Viewport](viewport.md)
 * [VIM](vim.md)

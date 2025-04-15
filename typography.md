@@ -1,28 +1,7 @@
-# Fonts
+# Typography
 
-|  |  |
-| :--- | :--- |
-| [Better font loading with the font-display:swap property](https://gomakethings.com/better-font-loading-with-the-font-displayswap-property/) | 7/8 |
-| [Intrinsic Typography is the Future of Styling Text on the Web](https://css-tricks.com/intrinsic-typography-is-the-future-of-styling-text-on-the-web/) | 4/20 |
-| [6 Practical Tips - Typography System Creation](https://blog.prototypr.io/6-practical-tips-typography-system-creation-9909c6f3a89c) | 12/8 |
-
-### Font-smoothing
-
-```text
--webkit-font-smoothing: antialiased;
--moz-osx-font-smoothing: grayscale;
-```
-
-### @font-face
-
-```css
-@font-face {
-  font-family: ‘MyWebFont’;
-  src: url(‘webfont.eot’);
-  src: url(‘webfont.eot?#iefix’) format(‘embedded-opentype’),
-       url(‘webfont.woff’) format(‘woff’),
-       url(‘webfont.ttf’) format(‘truetype’),
-       url(‘webfont.svg#svgFontName’) format(‘svg’);
- }
-```
-
+|                                                                  |         |
+| ---------------------------------------------------------------- | ------- |
+| [Nebula Sans](https://app.daily.dev/posts/nebula-sans-osmec6nda) | 4/15/25 |
+|                                                                  |         |
+|                                                                  |         |
