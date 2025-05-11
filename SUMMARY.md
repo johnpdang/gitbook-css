@@ -55,6 +55,7 @@
 * [Fonts](fonts.md)
 * [Forms](forms.md)
 * [Frameworks](frameworks/README.md)
+  * [Bootstrap](frameworks/bootstrap.md)
   * [Tailwind](frameworks/tailwind.md)
 * [Freelance](freelance.md)
 * [Function](function.md)
