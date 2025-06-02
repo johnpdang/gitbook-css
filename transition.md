@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                             |          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [CSS View Transitions Will Change Web Design in 2025 (Tutorial)](https://app.daily.dev/posts/svil59msa)                                                                     | 6/2/25   |
 | [easy transitions with clip-path](https://app.daily.dev/posts/easy-transitions-with-clip-path-bxjr1n5o7)                                                                    | 4/23/25  |
 | [A better capturing mode for View Transitions](https://www.bram.us/2024/09/23/a-better-capturing-mode-for-view-transitions/?ref=dailydev)                                   | 10/17/24 |
 | [We can now transition to and from display: none](https://app.daily.dev/posts/we-can-now-transition-to-and-from-display-none-oz2vyuzep)                                     | 8/14/24  |
