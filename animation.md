@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                             |          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [A micro-animations library](https://app.daily.dev/posts/34ihy0wa7)                                                                                                         | 6/22/25  |
 | [Ground UI](https://app.daily.dev/posts/ground-ui-ntgnwtlf2)                                                                                                                | 5/1/25   |
 | [Animations CSS Generator](https://app.daily.dev/posts/animations-css-generator-367zio14c)                                                                                  | 4/2/25   |
 | [Animista: On-Demand CSS Animations Library](https://app.daily.dev/posts/animista-on-demand-css-animations-library-5ab2owbua)                                               | 4/1/25   |
