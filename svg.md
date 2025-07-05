@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                       |           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [CSS Blob Recipes](https://css-tricks.com/css-blob-recipes/?ref=dailydev)                                                                                                                                                             | 7/5/25    |
 | [Some Nice Things with SVG](https://app.daily.dev/posts/some-nice-things-with-svg-wskwycmuw)                                                                                                                                          | 4/22/25   |
 | [The Power of SVG Animations](https://app.daily.dev/posts/the-power-of-svg-animations-iphmnfr16)                                                                                                                                      | 2/17/25   |
 | [SVG Path Visualizer](https://svg-path-visualizer.netlify.app/#M140%2020C73%2020%2020%2074%2020%20140c0%20135%20136%20170%20228%20303%2088-132%20229-173%20229-303%200-66-54-120-120-120-48%200-90%2028-109%2069-19-41-60-69-108-69z) | 9/28/23   |
