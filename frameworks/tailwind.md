@@ -2,6 +2,7 @@
 
 |                                                                                                                                                      |          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Tailwind CSS Animations Plugin: Community-Powered Animation Magic](https://tailwindcss-animations.vercel.app/?ref=dailydev)                         | 7/6/25   |
 | [Made with TailwindCSS, shadcn/ui, Radix UI and Figma.](https://mynaui.com/?ref=dailydev)                                                            | 6/25/25  |
 | [Tailwind CSS cheatsheet.](https://app.daily.dev/posts/tailwind-css-cheatsheet--stohku1yz)                                                           | 5/13/25  |
 | [Tailwind CSS v4 Full Course 2025 \| Master Tailwind in One Hour](https://app.daily.dev/posts/xa8pr0rjl)                                             | 3/25/25  |
