@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                     |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [CSS Layout Generator](https://layout.bradwoods.io/)                                                                                                                | 7/19/25  |
 | [CSS Hell](https://csshell.com/?ref=dailydev)                                                                                                                       | 4/30/25  |
 | [The unknown behavior of flex-wrap](https://app.daily.dev/posts/the-unknown-behavior-of-flex-wrap-seyygf9gn)                                                        | 4/19/25  |
 | [Wrapper Classes: A Layout Foundation](https://app.daily.dev/posts/wrapper-classes-a-layout-foundation-peeloog33)                                                   | 3/6/25   |
