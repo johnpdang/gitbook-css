@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                           |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Color Generator – Kigen](https://kigen.design/color?ref=dailydev)                                                                                                        | 8/16/25  |
 | [CSS System colors](https://app.daily.dev/posts/css-system-colors-jmpp17dmv)                                                                                              | 4/11/25  |
 | [The problem with HSL colors](https://tigerabrodi.blog/the-problem-with-hsl-colors?ref=dailydev)                                                                          | 2/19/25  |
 | [The Infinite Color Palette Generator](https://app.daily.dev/posts/the-infinite-color-palette-generator-1vb5vrkvc)                                                        | 1/25/25  |
