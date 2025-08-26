@@ -2,6 +2,7 @@
 
 |                                                                                                                                               |          |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Simple Icons](https://app.daily.dev/posts/m5iqyf1th)                                                                                         | 8/26/25  |
 | [CSS Reference](https://cssreference.io/?ref=dailydev)                                                                                        | 7/27/25  |
 | [CSS Scan 4.0](https://gvrizzo.gumroad.com/l/cssscan/rammcodes?ref=dailydev)                                                                  | 12/26/24 |
 | [PX to REM converter (instantly and bidirectional)](https://app.daily.dev/posts/px-to-rem-converter-instantly-and-bidirectional--bsvoolsjs)   | 8/30/24  |
