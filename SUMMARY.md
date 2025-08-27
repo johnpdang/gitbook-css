@@ -70,6 +70,7 @@
 * [Header](header.md)
 * [Height](height.md)
 * [Hover](hover.md)
+* [Icons](icons.md)
 * [Images](images.md)
 * [Layout](layout.md)
 * [Loader](loader.md)
