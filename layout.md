@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                     |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Better CSS layouts: Time.com Hero Section](https://ishadeed.com/article/time-layout/?ref=dailydev)                                                                 | 8/28/25  |
 | [When to use Flexbox and when to use CSS Grid](https://blog.logrocket.com/css-flexbox-vs-css-grid/?ref=dailydev)                                                    | 7/31/25  |
 | [CSS Layout Generator](https://layout.bradwoods.io/)                                                                                                                | 7/19/25  |
 | [CSS Hell](https://csshell.com/?ref=dailydev)                                                                                                                       | 4/30/25  |
