@@ -2,6 +2,7 @@
 
 |                                                                                                                                                      |          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Prebuilt Tailwind Components](https://kutty.netlify.app/?ref=dailydev)                                                                              | 9/4/25   |
 | [Tailwind CSS Animations Plugin: Community-Powered Animation Magic](https://tailwindcss-animations.vercel.app/?ref=dailydev)                         | 7/6/25   |
 | [Made with TailwindCSS, shadcn/ui, Radix UI and Figma.](https://mynaui.com/?ref=dailydev)                                                            | 6/25/25  |
 | [Tailwind CSS cheatsheet.](https://app.daily.dev/posts/tailwind-css-cheatsheet--stohku1yz)                                                           | 5/13/25  |
