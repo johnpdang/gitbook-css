@@ -2,6 +2,7 @@
 
 |                                                                                                                                           |         |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [The CSS if() Function Has Arrived!](https://medium.com/@karstenbiedermann/the-css-if-function-has-arrived-152115ab2115)                  | 10/4/25 |
 | [Dynamic nth-child() using sibling-index() and if()](https://app.daily.dev/posts/dynamic-nth-child-using-sibling-index-and-if--dwxrtk5va) | 7/26/25 |
 | [The CSS shape() function](https://app.daily.dev/posts/the-css-shape-function-x3t1gaare)                                                  | 4/27/25 |
 | [CSS @function + CSS if() = 🤯](https://app.daily.dev/posts/css-function-css-if--nw8gga1zh)                                               | 3/12/25 |
