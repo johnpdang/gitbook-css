@@ -2,6 +2,7 @@
 
 |                                                                                                                                          |         |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [What’re Your Top 4 CSS Properties?](https://app.daily.dev/posts/what-re-your-top-4-css-properties--v5iqg2ean)                           | 10/15/25 |
 | [CSS @property and the New Style](https://app.daily.dev/posts/css-property-and-the-new-style-lb0txqq2g)                                  | 9/10/24 |
 | [Count the number of lines inside a text](https://app.daily.dev/posts/count-the-number-of-lines-inside-a-text-yd6bhtp2j)                 | 8/4/24  |
 | [Typed CSS variables using @property](https://app.daily.dev/posts/typed-css-variables-using-property-s922vkv4g)                          | 8/1/24  |
