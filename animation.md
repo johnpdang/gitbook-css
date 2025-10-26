@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                             |          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [AnimatiSS](https://xsgames.co/animatiss/?ref=dailydev)                                                                                                                     | 10/26/25 |
 | [Clean Animation on Glass Buttons](https://app.daily.dev/posts/clean-animation-on-glass-buttons-wsepw2tfq)                                                                  | 6/23/25  |
 | [A micro-animations library](https://app.daily.dev/posts/34ihy0wa7)                                                                                                         | 6/22/25  |
 | [Ground UI](https://app.daily.dev/posts/ground-ui-ntgnwtlf2)                                                                                                                | 5/1/25   |
