@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                          |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
+| [What’s New in View Transitions (2025 Update)](https://www.bram.us/2025/10/09/whats-new-in-view-transitions-2025-update/?ref=dailydev)                                                                                   | 10/28/25 |
 | [Two lines of Cross-Document View Transitions code you can use on every website today](https://webkit.org/blog/16967/two-lines-of-cross-document-view-transitions-code-you-can-use-on-every-website-today/?ref=dailydev) | 6/4/25   |
 | [CSS View Transitions Will Change Web Design in 2025 (Tutorial)](https://app.daily.dev/posts/svil59msa)                                                                                                                  | 6/2/25   |
 | [easy transitions with clip-path](https://app.daily.dev/posts/easy-transitions-with-clip-path-bxjr1n5o7)                                                                                                                 | 4/23/25  |
