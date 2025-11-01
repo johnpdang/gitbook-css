@@ -111,6 +111,7 @@
   * [webpack.config.js](starter-files/webpack.config.js.md)
 * [SVG](svg.md)
 * [Table](table.md)
+* [Tabs](tabs.md)
 * [Tech](tech.md)
 * [Terminal](terminal/README.md)
   * [Aliases](terminal/aliases.md)
