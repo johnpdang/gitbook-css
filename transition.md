@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                          |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
+| [Springs and Bounces in Native CSS ](https://www.joshwcomeau.com/animation/linear-timing-function/?ref=dailydev)                                                                                                         | 11/15/25 |
 | [View Transition API](https://garden.bradwoods.io/notes/javascript/web-api/view-transition?ref=dailydev)                                                                                                                 | 11/10/25 |
 | [What’s New in View Transitions (2025 Update)](https://www.bram.us/2025/10/09/whats-new-in-view-transitions-2025-update/?ref=dailydev)                                                                                   | 10/28/25 |
 | [Two lines of Cross-Document View Transitions code you can use on every website today](https://webkit.org/blog/16967/two-lines-of-cross-document-view-transitions-code-you-can-use-on-every-website-today/?ref=dailydev) | 6/4/25   |
