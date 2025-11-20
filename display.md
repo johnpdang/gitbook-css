@@ -2,6 +2,7 @@
 
 |                                                                                                                                                          |          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Masonry layout is coming, but it's got a new name](https://app.daily.dev/posts/masonry-layout-is-coming-but-it-s-got-a-new-name-xfiviusab)              | 11/20/25 |
 | [CSS Flexbox Playground](https://app.daily.dev/posts/css-flexbox-playground-xtqgznaa3)                                                                   | 1/10/25  |
 | [Always use flex-wrap: wrap on flex containers](https://app.daily.dev/posts/always-use-flex-wrap-wrap-on-flex-containers-fiqhucij6)                      | 12/25/24 |
 | [The CSS Display Property is Changing Forever](https://app.daily.dev/posts/the-css-display-property-is-changing-forever-atixozhdb)                       | 12/11/24 |
