@@ -1,9 +1,10 @@
 # Forms
 
-|                                                                                                                                              |        |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| [Creating a textarea character limit indicator](https://dev.to/sarahokolo/creating-a-textarea-character-limit-indicator-5fol?context=digest) | 4/7/24 |
-| [Inclusive inputs](https://gomakethings.com/inclusive-inputs/?mc\_cid=83854ae089\&mc\_eid=\[UNIQID])                                         | 5/8    |
+|                                                                                                                                              |          |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [CSS ::picker-icon Pseudo Element](https://css-tricks.com/almanac/pseudo-selectors/p/picker-icon/?ref=dailydev)                              | 11/27/25 |
+| [Creating a textarea character limit indicator](https://dev.to/sarahokolo/creating-a-textarea-character-limit-indicator-5fol?context=digest) | 4/7/24   |
+| [Inclusive inputs](https://gomakethings.com/inclusive-inputs/?mc_cid=83854ae089\&mc_eid=\[UNIQID])                                           | 5/8      |
 
 |                        |                                                                                                |
 | ---------------------- | ---------------------------------------------------------------------------------------------- |
