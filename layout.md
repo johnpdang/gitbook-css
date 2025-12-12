@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                     |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Masonry: Things You Won’t Need A Library For Anymore](https://www.smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/?ref=dailydev)         | 12/12/25 |
 | [My CSS layout strategy](https://app.daily.dev/posts/my-css-layout-strategy-lfp48ynra)                                                                              | 12/9/25  |
 | [Better CSS layouts: Time.com Hero Section](https://ishadeed.com/article/time-layout/?ref=dailydev)                                                                 | 8/28/25  |
 | [When to use Flexbox and when to use CSS Grid](https://blog.logrocket.com/css-flexbox-vs-css-grid/?ref=dailydev)                                                    | 7/31/25  |
