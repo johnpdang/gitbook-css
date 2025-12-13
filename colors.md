@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                           |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [A pragmatic guide to modern CSS colours - part two](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-two/?ref=dailydev)                             | 12/13/25 |
 | [Explore color as we see it, oklch](https://oklch.fyi/)                                                                                                                   | 11/22/25 |
 | [Harmonizer](https://app.daily.dev/posts/meem7wyhc)                                                                                                                       | 10/20/25 |
 | [Color Shifting in CSS • Josh W. Comeau](https://www.joshwcomeau.com/animation/color-shifting/?ref=dailydev)                                                              | 9/20/25  |
