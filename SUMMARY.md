@@ -129,6 +129,7 @@
 * [QA/testing](qa-testing/README.md)
   * [Browsers/devices](qa-testing/browsers.md)
   * [The Front-End Checklist](qa-testing/the-front-end-checklist.md)
+* [Queries](queries.md)
 * [WordPress](wordpress/README.md)
   * [Gutenberg](wordpress/gutenberg.md)
   * [PHP](wordpress/php.md)
