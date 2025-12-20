@@ -97,6 +97,7 @@
 * [Scroll](scroll.md)
 * [Scope](scope.md)
 * [SCSS](scss.md)
+* [Selectors](selectors.md)
 * [Server](server/README.md)
   * [Serverless services](server/serverless-services.md)
   * [Docker](server/docker.md)
