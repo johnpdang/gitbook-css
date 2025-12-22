@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                     |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [I failed to recreate the 1996 Space Jam Website with Claude](https://app.daily.dev/posts/i-failed-to-recreate-the-1996-space-jam-website-with-claude-bbpu47ruy)    | 12/22/25 |
 | [Masonry: Things You Won’t Need A Library For Anymore](https://www.smashingmagazine.com/2025/12/masonry-things-you-wont-need-library-anymore/?ref=dailydev)         | 12/12/25 |
 | [My CSS layout strategy](https://app.daily.dev/posts/my-css-layout-strategy-lfp48ynra)                                                                              | 12/9/25  |
 | [Better CSS layouts: Time.com Hero Section](https://ishadeed.com/article/time-layout/?ref=dailydev)                                                                 | 8/28/25  |
