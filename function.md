@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                          |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
+| [I Love the NEW CSS Functions](https://app.daily.dev/posts/i-love-the-new-css-functions-ajtnli7gy)                                                                       | 1/7/26   |
 | [CSS Clamp](https://cassidoo.co/post/css-clamp/?ref=dailydev)                                                                                                            | 12/7/25  |
 | [CSS Finally Gets Inline Conditional Logic With New if() Function](https://app.daily.dev/posts/css-finally-gets-inline-conditional-logic-with-new-if-function-manljf5cs) | 10/25/25 |
 | [The CSS if() Function Has Arrived!](https://medium.com/@karstenbiedermann/the-css-if-function-has-arrived-152115ab2115)                                                 | 10/4/25  |
