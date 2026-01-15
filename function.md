@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                          |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
+| [The game changed when CSS introduced the IF-ELSE function](https://app.daily.dev/posts/the-game-changed-when-css-introduced-the-if-else-function-zohkq6ri0)             | 1/15/26  |
 | [I Love the NEW CSS Functions](https://app.daily.dev/posts/i-love-the-new-css-functions-ajtnli7gy)                                                                       | 1/7/26   |
 | [CSS Clamp](https://cassidoo.co/post/css-clamp/?ref=dailydev)                                                                                                            | 12/7/25  |
 | [CSS Finally Gets Inline Conditional Logic With New if() Function](https://app.daily.dev/posts/css-finally-gets-inline-conditional-logic-with-new-if-function-manljf5cs) | 10/25/25 |
