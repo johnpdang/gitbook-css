@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                   |          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [New Safari developer tools provide insight into CSS Grid Lanes](https://app.daily.dev/posts/new-safari-developer-tools-provide-insight-into-css-grid-lanes-xl1o3zdaw)            | 1/22/26  |
 | [The Gap Strikes Back: Now Stylable](https://css-tricks.com/the-gap-strikes-back-now-stylable/?utm_source=CSS-Weekly\&utm_medium=newsletter\&utm_campaign=issue-615-july-17-2025) | 7/17/25  |
 | [A new way to style gaps in CSS](https://app.daily.dev/posts/a-new-way-to-style-gaps-in-css-9lolqu2yp)                                                                            | 6/21/25  |
 | [Animate Intrinsic Size With CSS](https://dockyard.com/blog/10/18/2024/animate-intrinsic-size-css?ref=dailydev)                                                                   | 10/27/24 |
