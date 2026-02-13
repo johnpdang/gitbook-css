@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                  |         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [Ultra-lightweight UI library](https://oat.ink/components/#card)                                                                                                                 | 2/13/26 |
 | [CSS Web Components for marketing sites](https://hawkticehurst.com/2024/11/css-web-components-for-marketing-sites/?ref=dailydev)                                                 | 1/25/26 |
 | [Cosmic UI](https://www.cosmic-ui.com/?ref=dailydev)                                                                                                                             | 12/8/25 |
 | [Browse the best website hero section designs](https://app.daily.dev/posts/browse-the-best-website-hero-section-designs-t6adg93cj)                                               | 1/16/25 |
