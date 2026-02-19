@@ -102,7 +102,7 @@
   * [Serverless services](server/serverless-services.md)
   * [Docker](server/docker.md)
   * [Status codes](server/status-codes.md)
-* [Snippet](snippet.md)
+* [Snippets](snippet.md)
 * [Starter Files](starter-files/README.md)
   * [HTML](starter-files/html.md)
   * [.gitignore](starter-files/.gitignore.md)
