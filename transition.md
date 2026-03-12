@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                          |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
+| [View Transitions can swoop‽](https://nerdy.dev/swoop-there-it-is?ref=dailydev)                                                                                                                                          | 3/12/26  |
 | [Springs and Bounces in Native CSS ](https://www.joshwcomeau.com/animation/linear-timing-function/?ref=dailydev)                                                                                                         | 11/15/25 |
 | [View Transition API](https://garden.bradwoods.io/notes/javascript/web-api/view-transition?ref=dailydev)                                                                                                                 | 11/10/25 |
 | [What’s New in View Transitions (2025 Update)](https://www.bram.us/2025/10/09/whats-new-in-view-transitions-2025-update/?ref=dailydev)                                                                                   | 10/28/25 |
