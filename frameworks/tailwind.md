@@ -2,6 +2,7 @@
 
 |                                                                                                                                                          |          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Why I Stopped Using Bootstrap and Moved to Tailwind CSS](https://app.daily.dev/posts/why-i-stopped-using-bootstrap-and-moved-to-tailwind-css-mhgmpfhtt) | 3/29/26  |
 | [4 Reasons That Make Tailwind Great for Building Layouts](https://app.daily.dev/posts/4-reasons-that-make-tailwind-great-for-building-layouts-heivmpuxr) | 3/17/26  |
 | [This New Tailwind Plugin is Awesome](https://app.daily.dev/posts/this-new-tailwind-plugin-is-awesome-jvhtw2ket)                                         | 12/5/25  |
 | [Tailwind CSS Color Generator](https://app.daily.dev/posts/5rk61o3gq)                                                                                    | 9/6/25   |
