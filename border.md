@@ -2,6 +2,7 @@
 
 |                                                                                                                                          |          |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [New CSS Property corner-shape Is Amazing](https://app.daily.dev/posts/new-css-property-corner-shape-is-amazing-gcq6otgbf)               | 4/1/26   |
 | [Making interesting borders with CSS corner-shape](https://cassidoo.co/post/css-corner-shape/?ref=dailydev)                              | 2/3/26   |
 | [Conditional Border Radius with Modern CSS](https://css-tip.com/conditional-border-radius/?ref=dailydev)                                 | 10/19/25 |
 | [Make an animated glowing border effect with CSS](https://app.daily.dev/posts/make-an-animated-glowing-border-effect-with-css-jb8vnjqaq) | 6/10/25  |
