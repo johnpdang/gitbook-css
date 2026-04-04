@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                             |          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [What Is CSS Containment and How Can I Use It?](https://csswizardry.com/2026/04/what-is-css-containment-and-how-can-i-use-it/?ref=dailydev)                                 | 4/4/26   |
 | [CSS Container Queries, what are they?](https://app.daily.dev/posts/css-container-queries-what-are-they--wb2q7gvss)                                                         | 3/3/25   |
 | [Container query units: cqi and cqb](https://app.daily.dev/posts/container-query-units-cqi-and-cqb-taqetzk9c)                                                               | 2/16/25  |
 | [A Friendly Introduction to Container Queries • Josh W. Comeau](https://www.joshwcomeau.com/css/container-queries-introduction/?ref=dailydev)                               | 12/1/24  |
