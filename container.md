@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                             |          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Name-Only Containers: The Scoping We Needed – Frontend Masters Blog](https://frontendmasters.com/blog/name-only-containers-the-scoping-we-needed/?ref=dailydev)            | 4/8/26   |
 | [What Is CSS Containment and How Can I Use It?](https://csswizardry.com/2026/04/what-is-css-containment-and-how-can-i-use-it/?ref=dailydev)                                 | 4/4/26   |
 | [CSS Container Queries, what are they?](https://app.daily.dev/posts/css-container-queries-what-are-they--wb2q7gvss)                                                         | 3/3/25   |
 | [Container query units: cqi and cqb](https://app.daily.dev/posts/container-query-units-cqi-and-cqb-taqetzk9c)                                                               | 2/16/25  |
