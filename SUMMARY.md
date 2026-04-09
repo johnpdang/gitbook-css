@@ -92,6 +92,7 @@
 * [Position](position.md)
 * [Productivity](productivity.md)
 * [Property](property.md)
+* [Pseudo](pseudo.md)
 * [Reset](reset.md)
 * [Resources](resources.md)
 * [Responsive](responsive.md)
