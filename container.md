@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                             |          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Wrap detection with a few lines of CSS](https://app.daily.dev/posts/wrap-detection-with-a-few-lines-of-css-2teglthpw)                                                      | 4/16/26  |
 | [Name-only @container queries: A solution to the naming wars](https://webkit.org/blog/17923/name-only-container-queries-a-solution-to-the-naming-wars/?ref=dailydev)        | 4/15/26  |
 | [Name-Only Containers: The Scoping We Needed – Frontend Masters Blog](https://frontendmasters.com/blog/name-only-containers-the-scoping-we-needed/?ref=dailydev)            | 4/8/26   |
 | [What Is CSS Containment and How Can I Use It?](https://csswizardry.com/2026/04/what-is-css-containment-and-how-can-i-use-it/?ref=dailydev)                                 | 4/4/26   |
