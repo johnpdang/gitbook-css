@@ -72,6 +72,7 @@
 * [Hover](hover.md)
 * [Icons](icons.md)
 * [Images](images.md)
+* [Layer](layer.md)
 * [Layout](layout.md)
 * [Loader](loader.md)
 * [Links](links.md)
