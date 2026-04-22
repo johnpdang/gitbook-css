@@ -2,6 +2,7 @@
 
 |                                                                                                                                          |          |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Hand-Drawn Underline using border-shape](https://css-tip.com/hand-drawn-underline/?ref=dailydev)                                        | 4/22/26  |
 | [Let's Reshape the Web using border-shape!](https://css-tip.com/border-shape/?ref=dailydev)                                              | 4/12/26  |
 | [New CSS Property corner-shape Is Amazing](https://app.daily.dev/posts/new-css-property-corner-shape-is-amazing-gcq6otgbf)               | 4/1/26   |
 | [Making interesting borders with CSS corner-shape](https://cassidoo.co/post/css-corner-shape/?ref=dailydev)                              | 2/3/26   |
