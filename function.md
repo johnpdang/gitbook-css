@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                          |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
+| [The Importance of Native Randomness in CSS](https://css-tricks.com/the-importance-of-native-randomness-in-css/?ref=dailydev)                                            | 4/30/26  |
 | [Trimming our CSS with sibling-index() and sibling-count()](https://thoughtbot.com/blog/trimming-our-css-with-sibling-index-and-sibling-count?ref=dailydev)              | 4/24/26  |
 | [The game changed when CSS introduced the IF-ELSE function](https://app.daily.dev/posts/the-game-changed-when-css-introduced-the-if-else-function-zohkq6ri0)             | 1/15/26  |
 | [I Love the NEW CSS Functions](https://app.daily.dev/posts/i-love-the-new-css-functions-ajtnli7gy)                                                                       | 1/7/26   |
