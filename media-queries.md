@@ -2,6 +2,7 @@
 
 |                                                                                                                                                             |          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Media Queries Range Syntax](https://ishadeed.com/article/range-syntax/?ref=dailydev)                                                                       | 5/5/26   |
 | [What’s !important #4: Videos & View Transitions, Named Media Queries, How Browsers Work, and More](https://css-tricks.com/whats-important-4/?ref=dailydev) | 2/4/26   |
 | [Custom Media · January 23, 2026](https://nerdy.dev/custom-media?ref=dailydev)                                                                              | 1/29/26  |
 | [Feature detect Style Queries Support in CSS](https://www.bram.us/2024/10/06/feature-detect-style-queries-support-in-css/?ref=dailydev)                     | 10/22/24 |
