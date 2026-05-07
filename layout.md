@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                     |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Fixed-Height Cards: More Fragile Than They Look](https://css-tricks.com/fixed-height-cards-more-fragile-than-they-look/?ref=dailydev)                              | 5/7/26   |
 | [New CSS Multi-Column Layout Features in Chrome](https://css-tricks.com/css-multi-column-layout-wrapping-features/?ref=dailydev)                                    | 4/7/26   |
 | [Support for wrapped columns in multi-column layout](https://developer.chrome.com/blog/multicol-wrapping?ref=dailydev)                                              | 2/22/26  |
 | [I failed to recreate the 1996 Space Jam Website with Claude](https://app.daily.dev/posts/i-failed-to-recreate-the-1996-space-jam-website-with-claude-bbpu47ruy)    | 12/22/25 |
