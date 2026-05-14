@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                           |          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [rotateZ()](https://css-tricks.com/almanac/functions/r/rotatez/?ref=dailydev)                                                                                                                             | 5/14/26  |
 | [CSS sibling-index() and sibling-count(): Native List Staggering Without JavaScript](https://www.sitepoint.com/css-siblingindex-and-siblingcount-native-list-staggering-without-javascript/?ref=dailydev) | 5/10/26  |
 | [The Importance of Native Randomness in CSS](https://css-tricks.com/the-importance-of-native-randomness-in-css/?ref=dailydev)                                                                             | 4/30/26  |
 | [Trimming our CSS with sibling-index() and sibling-count()](https://thoughtbot.com/blog/trimming-our-css-with-sibling-index-and-sibling-count?ref=dailydev)                                               | 4/24/26  |
