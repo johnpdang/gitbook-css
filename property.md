@@ -1,9 +1,10 @@
 # Property
 
-|                                                                                                                                          |         |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| [What’re Your Top 4 CSS Properties?](https://app.daily.dev/posts/what-re-your-top-4-css-properties--v5iqg2ean)                           | 10/15/25 |
-| [CSS @property and the New Style](https://app.daily.dev/posts/css-property-and-the-new-style-lb0txqq2g)                                  | 9/10/24 |
-| [Count the number of lines inside a text](https://app.daily.dev/posts/count-the-number-of-lines-inside-a-text-yd6bhtp2j)                 | 8/4/24  |
-| [Typed CSS variables using @property](https://app.daily.dev/posts/typed-css-variables-using-property-s922vkv4g)                          | 8/1/24  |
-| [Get the screen width & height without JavaScript](https://app.daily.dev/posts/get-the-screen-width-height-without-javascript-ugq3rqgjv) | 7/23/24 |
+|                                                                                                                                                 |          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [When to use (and not use) CSS shorthand properties](https://thoughtbot.com/blog/when-to-use-and-not-use-css-shorthand-properties?ref=dailydev) | 5/15/26  |
+| [What’re Your Top 4 CSS Properties?](https://app.daily.dev/posts/what-re-your-top-4-css-properties--v5iqg2ean)                                  | 10/15/25 |
+| [CSS @property and the New Style](https://app.daily.dev/posts/css-property-and-the-new-style-lb0txqq2g)                                         | 9/10/24  |
+| [Count the number of lines inside a text](https://app.daily.dev/posts/count-the-number-of-lines-inside-a-text-yd6bhtp2j)                        | 8/4/24   |
+| [Typed CSS variables using @property](https://app.daily.dev/posts/typed-css-variables-using-property-s922vkv4g)                                 | 8/1/24   |
+| [Get the screen width & height without JavaScript](https://app.daily.dev/posts/get-the-screen-width-height-without-javascript-ugq3rqgjv)        | 7/23/24  |
