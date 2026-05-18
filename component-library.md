@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                  |         |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| [How to Build Modern UI Components Using CSS Generators](https://www.sitepoint.com/how-to-build-modern-ui-components-using-css-generators/?ref=dailydev)                         | 5/18/26 |
 | [Ultra-lightweight UI library](https://oat.ink/components/#card)                                                                                                                 | 2/13/26 |
 | [CSS Web Components for marketing sites](https://hawkticehurst.com/2024/11/css-web-components-for-marketing-sites/?ref=dailydev)                                                 | 1/25/26 |
 | [Cosmic UI](https://www.cosmic-ui.com/?ref=dailydev)                                                                                                                             | 12/8/25 |
