@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                           |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [oklch() in CSS: A Modern Approach to Color](https://spin.atomicobject.com/oklch-in-css-color/?ref=dailydev)                                                              | 5/20/26  |
 | [Build smarter color systems with relative colors](https://app.daily.dev/posts/build-smarter-color-systems-with-relative-colors-jqnqufvsc)                                | 12/24/25 |
 | [A pragmatic guide to modern CSS colours - part two](https://piccalil.li/blog/a-pragmatic-guide-to-modern-css-colours-part-two/?ref=dailydev)                             | 12/13/25 |
 | [Explore color as we see it, oklch](https://oklch.fyi/)                                                                                                                   | 11/22/25 |
