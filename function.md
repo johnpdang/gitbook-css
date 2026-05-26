@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                           |          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Connecting Circles With a Curved Line](https://css-tip.com/connected-circles-3/?ref=dailydev)                                                                                                            | 5/26/26  |
 | [Advanced Tree Counting: Mathematical Layouts With sibling-index() And sibling-count()](https://www.smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/?ref=dailydev)          | 5/21/26  |
 | [Better fluid sizing with round()](https://ishadeed.com/article/css-round/?ref=dailydev)                                                                                                                  | 5/17/26  |
 | [rotateZ()](https://css-tricks.com/almanac/functions/r/rotatez/?ref=dailydev)                                                                                                                             | 5/14/26  |
