@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                                 |          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [CSS vs. JavaScript](https://www.joshwcomeau.com/animation/css-vs-javascript/?ref=dailydev)                                                                                                                                                     | 5/27/26  |
 | [How to Control Infinite CSS Animations (Part 1 of 2) – Frontend Masters Blog](https://frontendmasters.com/blog/how-to-control-infinite-css-animations-part-1-of-2/?ref=dailydev)                                                               | 5/9/26   |
 | [Using CSS animations as state machines to remember focus and hover states with CSS only](https://patrickbrosset.com/articles/2026-03-09-using-css-animations-as-state-machines-to-remember-focus-and-hover-states-with-css-only/?ref=dailydev) | 3/23/26  |
 | [Animating CSS width or height no longer force a Main Thread animation](https://app.daily.dev/posts/animating-css-width-or-height-no-longer-force-a-main-thread-animation-in-chrome-under-the-right-co-45yp20aug)                               | 11/18/25 |
