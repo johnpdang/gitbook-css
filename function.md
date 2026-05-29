@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                           |          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [The Fundamentals and Dev Experience of CSS @function – Frontend Masters Blog](https://frontendmasters.com/blog/the-fundamentals-and-dev-experience-of-css-function/?ref=dailydev)                        | 5/29/26  |
 | [Connecting Circles With a Curved Line](https://css-tip.com/connected-circles-3/?ref=dailydev)                                                                                                            | 5/26/26  |
 | [Advanced Tree Counting: Mathematical Layouts With sibling-index() And sibling-count()](https://www.smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/?ref=dailydev)          | 5/21/26  |
 | [Better fluid sizing with round()](https://ishadeed.com/article/css-round/?ref=dailydev)                                                                                                                  | 5/17/26  |
