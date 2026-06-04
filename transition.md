@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                          |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
+| [Collection of the most essential transitions for web apps](https://transitions.dev/?ref=dailydev)                                                                                                                       | 6/4/26   |
 | [7 View Transitions Recipes to Try](https://css-tricks.com/7-view-transitions-recipes-to-try/?ref=dailydev)                                                                                                              | 4/14/26  |
 | [View Transitions can swoop‽](https://nerdy.dev/swoop-there-it-is?ref=dailydev)                                                                                                                                          | 3/12/26  |
 | [Springs and Bounces in Native CSS ](https://www.joshwcomeau.com/animation/linear-timing-function/?ref=dailydev)                                                                                                         | 11/15/25 |
