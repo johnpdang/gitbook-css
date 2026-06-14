@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                            |           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Ending Responsive Images](https://cloudfour.com/thinks/ending-responsive-images/?ref=dailydev)                                                                            | 6/14/26   |
 | [Add a Wobbling Animation to your Images](https://css-tip.com/wobbling-animation/?ref=dailydev)                                                                            | 3/22/26   |
 | [Expanding gallery using corner-shape:notch](https://codepen.io/cbolson/pen/myERJZQ?editors=1100)                                                                          | 1/26/26   |
 | [Minimal CSS-only blurry image placeholders](https://app.daily.dev/posts/minimal-css-only-blurry-image-placeholders-gaze9nyrb)                                             | 4/16/25   |
