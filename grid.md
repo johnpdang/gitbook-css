@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                   |          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Let’s Play With Gap Decorations! – Master.dev Blog](https://master.dev/blog/lets-play-with-gap-decorations/?ref=dailydev)                                                        | 6/24/26  |
 | [Introducing the Field Guide to Grid Lanes](https://webkit.org/blog/18098/introducing-the-field-guide-to-grid-lanes/?ref=dailydev)                                                | 6/10/26  |
 | [Chris’ Corner: Even Grids](https://blog.codepen.io/2026/03/23/chris-corner-even-grids/?ref=dailydev)                                                                             | 3/25/26  |
 | [New Safari developer tools provide insight into CSS Grid Lanes](https://app.daily.dev/posts/new-safari-developer-tools-provide-insight-into-css-grid-lanes-xl1o3zdaw)            | 1/22/26  |
