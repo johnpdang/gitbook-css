@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                            |          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [An animated radial gradient mask over text in CSS](https://cassidoo.co/post/radial-mask-text-css/?ref=dailydev)                                                           | 6/30/26  |
 | [Collection of modern,Gradients](https://gradientscss.vercel.app/)                                                                                                         | 8/29/25  |
 | [Understanding the Magic Behind the Gradient Border Effect in CSS](https://app.daily.dev/posts/understanding-the-magic-behind-the-gradient-border-effect-in-css-tz0vm7vk5) | 1/19/25  |
 | [CSS Gradient Color Generator](https://app.daily.dev/posts/css-gradient-color-generator-8cojydtv6)                                                                         | 1/7/25   |
