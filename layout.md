@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                     |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Fixing full-bleed CSS](https://dbushell.com/2026/07/03/fixing-full-bleed-css/?ref=dailydev)                                                                        | 7/3/26   |
 | [What's missing in CSS layout](https://patrickbrosset.com/articles/2026-05-20-whats-missing-in-css-layout/?ref=dailydev)                                            | 5/22/26  |
 | [Fixed-Height Cards: More Fragile Than They Look](https://css-tricks.com/fixed-height-cards-more-fragile-than-they-look/?ref=dailydev)                              | 5/7/26   |
 | [New CSS Multi-Column Layout Features in Chrome](https://css-tricks.com/css-multi-column-layout-wrapping-features/?ref=dailydev)                                    | 4/7/26   |
