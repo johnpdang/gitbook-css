@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                       |           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [SVG Filters on Type](https://www.carmenansio.com/articles/svg-filters-on-type?ref=dailydev)                                                                                                                                          | 7/6/26    |
 | [SVGs that feel like GIFs](https://koaning.io/posts/svg-gifs/?ref=dailydev)                                                                                                                                                           | 7/18/25   |
 | [Liquid Glass, but in CSS](https://atlaspuplabs.com/blog/liquid-glass-but-in-css?ref=dailydev)                                                                                                                                        | 7/9/25    |
 | [CSS Blob Recipes](https://css-tricks.com/css-blob-recipes/?ref=dailydev)                                                                                                                                                             | 7/5/25    |
