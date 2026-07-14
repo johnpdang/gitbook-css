@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                                 |          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [How to create awesome staggered animations in CSS](https://blog.logrocket.com/css-staggered-animations?ref=dailydev)                                                                                                                           | 7/14/26  |
 | [In-N-Out Animations: Popovers (Part 2/3) – Master.dev Blog](https://master.dev/blog/in-n-out-animations-popovers-part-2-3/?ref=dailydev)                                                                                                       | 6/13/26  |
 | [Why Isn’t My 3D View Transition Working?](https://css-tricks.com/why-isnt-my-3d-view-transition-working/?ref=dailydev)                                                                                                                         | 6/12/26  |
 | [Creating Memorable Web Experiences: A Modern CSS Toolkit](https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/?ref=dailydev)                                                                                        | 6/11/26  |
