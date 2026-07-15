@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                            |           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [I thought AVIF would make every image smaller. It didn’t.](https://stuffandnonsense.co.uk/blog/webp-to-avif-gotcha/?ref=dailydev)                                         | 7/15/26   |
 | [Switching my website images from WebP to AVIF](https://stuffandnonsense.co.uk/blog/switching-my-website-images-from-webp-to-avif/?ref=dailydev)                           | 7/12/26   |
 | [Ending Responsive Images](https://cloudfour.com/thinks/ending-responsive-images/?ref=dailydev)                                                                            | 6/14/26   |
 | [Add a Wobbling Animation to your Images](https://css-tip.com/wobbling-animation/?ref=dailydev)                                                                            | 3/22/26   |
