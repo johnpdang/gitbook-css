@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                                                 |          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [The most fun I've had with CSS in a while thanks to offset-path](https://daily.dev/posts/the-most-fun-i-ve-had-with-css-in-a-while-thanks-to-offset-path-rfuyozi58)                                                                            | 7/16/26  |
 | [How to create awesome staggered animations in CSS](https://blog.logrocket.com/css-staggered-animations?ref=dailydev)                                                                                                                           | 7/14/26  |
 | [In-N-Out Animations: Popovers (Part 2/3) – Master.dev Blog](https://master.dev/blog/in-n-out-animations-popovers-part-2-3/?ref=dailydev)                                                                                                       | 6/13/26  |
 | [Why Isn’t My 3D View Transition Working?](https://css-tricks.com/why-isnt-my-3d-view-transition-working/?ref=dailydev)                                                                                                                         | 6/12/26  |
