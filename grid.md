@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                   |          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Rebuilding FIFA Standings Layout with CSS Subgrid](https://ishadeed.com/article/fifa-layout/?ref=dailydev)                                                                       | 7/19/26  |
 | [Your Grid Lanes will likely fail WCAG 2.4.3](https://www.matuzo.at/blog/2026/grid-lanes-accessibility?ref=dailydev)                                                              | 6/25/26  |
 | [Let’s Play With Gap Decorations! – Master.dev Blog](https://master.dev/blog/lets-play-with-gap-decorations/?ref=dailydev)                                                        | 6/24/26  |
 | [Introducing the Field Guide to Grid Lanes](https://webkit.org/blog/18098/introducing-the-field-guide-to-grid-lanes/?ref=dailydev)                                                | 6/10/26  |
