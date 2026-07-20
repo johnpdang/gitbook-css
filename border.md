@@ -2,6 +2,7 @@
 
 |                                                                                                                                          |          |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Border beam](https://beam.jakubantalik.com/?ref=dailydev)                                                                               | 7/20/26  |
 | [Using CSS corner-shape For Folded Corners](https://css-tricks.com/using-css-corner-shape-for-folded-corners/?ref=dailydev)              | 5/8/26   |
 | [Hand-Drawn Underline using border-shape](https://css-tip.com/hand-drawn-underline/?ref=dailydev)                                        | 4/22/26  |
 | [Let's Reshape the Web using border-shape!](https://css-tip.com/border-shape/?ref=dailydev)                                              | 4/12/26  |
