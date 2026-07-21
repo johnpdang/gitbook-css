@@ -2,6 +2,7 @@
 
 |                                                                                                                                                          |          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Responsive ASCII Arts using text-fit](https://css-tip.com/ascii-art/?ref=dailydev)                                                                      | 7/21/26  |
 | [building a glitch text effect with nothing but css](https://code.geohack.top/post/building-a-glitch-text-effect-with-nothing-but-css?ref=dailydev)      | 7/5/26   |
 | [Perfectly center an uppercase text](https://css-tip.com/center-uppercase/?ref=dailydev)                                                                 | 3/5/25   |
 | [Trim extra space using text-box](https://css-tip.com/text-box/?ref=dailydev)                                                                            | 2/26/25  |
