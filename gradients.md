@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                            |          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [When You Need To Make a Triangle, Think Conic Gradients](https://daily.dev/posts/when-you-need-to-make-a-triangle-think-conic-gradients-master-dev-blog-el1f4eywx)        | 7/25/26  |
 | [An animated radial gradient mask over text in CSS](https://cassidoo.co/post/radial-mask-text-css/?ref=dailydev)                                                           | 6/30/26  |
 | [Collection of modern,Gradients](https://gradientscss.vercel.app/)                                                                                                         | 8/29/25  |
 | [Understanding the Magic Behind the Gradient Border Effect in CSS](https://app.daily.dev/posts/understanding-the-magic-behind-the-gradient-border-effect-in-css-tz0vm7vk5) | 1/19/25  |
