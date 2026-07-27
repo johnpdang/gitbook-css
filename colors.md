@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                           |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Color Palettes](https://daily.dev/posts/color-palettes-gusurcrce)                                                                                                        | 7/27/26  |
 | [Choose your own dark mode](https://dbushell.com/2026/07/16/choose-your-own-dark-mode/?ref=dailydev)                                                                      | 7/17/26  |
 | [oklch() in CSS: A Modern Approach to Color](https://spin.atomicobject.com/oklch-in-css-color/?ref=dailydev)                                                              | 5/20/26  |
 | [Build smarter color systems with relative colors](https://app.daily.dev/posts/build-smarter-color-systems-with-relative-colors-jqnqufvsc)                                | 12/24/25 |
