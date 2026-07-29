@@ -26,6 +26,7 @@
 * [Carousel](carousel.md)
 * [Cheatsheets](cheatsheets.md)
 * [Class](class.md)
+* [Clip Path](clip-path.md)
 * [Colors](colors.md)
 * [Command line](command-line.md)
 * [Component library](component-library.md)
