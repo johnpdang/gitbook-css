@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                    |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- |
+| [Why I don't recommend Tailwind CSS](https://daily.dev/posts/why-i-don-t-recommend-tailwind-css-kqnuxrv44)                                                                                                         | 8/2/26   |
 | [Cleaning Up "Dirty" AI-Generated CSS: Why I Built My Own Autonomous Tailwind Linter](https://dev.to/modoldern/cleaning-up-dirty-ai-generated-css-why-i-built-my-own-autonomous-tailwind-linter-2gjm?ref=dailydev) | 5/25/26  |
 | [I Don't Like Tailwind. Sorry Not Sorry](https://dev.to/freshcaffeine/i-dont-like-tailwind-sorry-not-sorry-50b5?ref=dailydev)                                                                                      | 5/3/26   |
 | [Why I Stopped Using Bootstrap and Moved to Tailwind CSS](https://app.daily.dev/posts/why-i-stopped-using-bootstrap-and-moved-to-tailwind-css-mhgmpfhtt)                                                           | 3/29/26  |
