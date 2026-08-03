@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                     |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [How Websites Were Built Before Flexbox and Grid](https://www.jstools.space/blog/css-before-flexbox/?via=dailydev)                                                  | 8/3/26   |
 | [writing-mode](https://css-tricks.com/almanac/properties/w/writing-mode/?ref=dailydev)                                                                              | 7/22/26  |
 | [Masonry (with Animation) in CSS](https://master.dev/blog/masonry-with-animation-in-css/?ref=dailydev)                                                              | 7/18/26  |
 | [Fixing full-bleed CSS](https://dbushell.com/2026/07/03/fixing-full-bleed-css/?ref=dailydev)                                                                        | 7/3/26   |
