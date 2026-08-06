@@ -2,6 +2,7 @@
 
 |                                                                                                                                                          |          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [5 CSS Properties You Should Know for Better Text Designs](https://master.dev/blog/typographic-css-tricks/?via=dailydev)                                 | 8/6/26   |
 | [Wait, line-height works like that?!](https://daily.dev/posts/wait-line-height-works-like-that--fqgb5s37h)                                               | 7/24/26  |
 | [Responsive ASCII Arts using text-fit](https://css-tip.com/ascii-art/?ref=dailydev)                                                                      | 7/21/26  |
 | [building a glitch text effect with nothing but css](https://code.geohack.top/post/building-a-glitch-text-effect-with-nothing-but-css?ref=dailydev)      | 7/5/26   |
