@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                  |         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------- |
+| [CSS Navigation Matching, Early Days](https://css-tricks.com/css-navigation-matching-early-days/?via=dailydev)                                                                                   | 8/21/26 |
 | [&#xD;CSS Menus: 43 Creative Examples for Your Website](https://app.daily.dev/posts/css-menus-43-creative-examples-for-your-website-micogeblv)                                                   | 6/1/25  |
 | [Fancy Menu Navigation Using Anchor Positioning](https://css-tricks.com/fancy-menu-navigation-using-anchor-positioning/?ref=dailydev)                                                            | 1/17/25 |
 | [Animated Navigation Menu](https://dev.to/alvaromontoro/animated-navigation-menu-57o7?context=digest)                                                                                            | 5/21/24 |
