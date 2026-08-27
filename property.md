@@ -2,6 +2,7 @@
 
 |                                                                                                                                                 |          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Controlling when CSS custom properties are computed](https://jakearchibald.com/2026/css-custom-property-compute-time/?via=dailydev)            | 8/27/26  |
 | [When to use (and not use) CSS shorthand properties](https://thoughtbot.com/blog/when-to-use-and-not-use-css-shorthand-properties?ref=dailydev) | 5/15/26  |
 | [What’re Your Top 4 CSS Properties?](https://app.daily.dev/posts/what-re-your-top-4-css-properties--v5iqg2ean)                                  | 10/15/25 |
 | [CSS @property and the New Style](https://app.daily.dev/posts/css-property-and-the-new-style-lb0txqq2g)                                         | 9/10/24  |
