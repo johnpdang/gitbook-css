@@ -114,6 +114,7 @@
   * [package.json](starter-files/package.json.md)
   * [README.md](starter-files/readme.md.md)
   * [webpack.config.js](starter-files/webpack.config.js.md)
+* [Supports](supports.md)
 * [SVG](svg.md)
 * [Table](table.md)
 * [Tabs](tabs.md)
