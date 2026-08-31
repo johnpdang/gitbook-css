@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                            |          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Free Gradient Generator · mesh, grainy and animated gradient](https://feralui.dev/gradients?via=dailydev)                                                                 | 8/31/26  |
 | [Ambient UI gradients built with layered CSS blend modes](https://github.com/CristianOlivera1/Aura)                                                                        | 8/15/26  |
 | [Gradient Studio — Free Procedural CSS Gradient Generator](https://gradientsaas.blogspot.com/?via=dailydev)                                                                | 8/9/26   |
 | [When You Need To Make a Triangle, Think Conic Gradients](https://daily.dev/posts/when-you-need-to-make-a-triangle-think-conic-gradients-master-dev-blog-el1f4eywx)        | 7/25/26  |
