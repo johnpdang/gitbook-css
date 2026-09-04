@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                           |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Two vs. Three-State Color Theme Toggles – Master.dev Blog](https://blog.master.dev/two-vs-three-state-color-theme-toggles/?via=dailydev)                                 | 9/4/26   |
 | [Modern CSS colors: oklch() and color-mix()](https://daily.dev/posts/modern-css-colors-oklch-and-color-mix--elb1blipu)                                                    | 8/26/26  |
 | [Dynamic Colour Schemes With Modern CSS](https://daily.dev/posts/dynamic-colour-schemes-with-modern-css-unbd3csjb)                                                        | 8/10/26  |
 | [Color Palettes](https://daily.dev/posts/color-palettes-gusurcrce)                                                                                                        | 7/27/26  |
