@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                   |          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Get Grid Information using pure CSS II](https://css-tip.com/grid-information-2/?via=dailydev)                                                                                    | 9/10/26  |
 | [Gap Decorations Are Now Available, Here’s What’s New](https://css-tricks.com/css-gap-decorations-now-available/?via=dailydev)                                                    | 8/4/26   |
 | [Rebuilding FIFA Standings Layout with CSS Subgrid](https://ishadeed.com/article/fifa-layout/?ref=dailydev)                                                                       | 7/19/26  |
 | [Your Grid Lanes will likely fail WCAG 2.4.3](https://www.matuzo.at/blog/2026/grid-lanes-accessibility?ref=dailydev)                                                              | 6/25/26  |
