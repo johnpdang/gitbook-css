@@ -2,6 +2,7 @@
 
 |                                                                                                                                                          |          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Understanding CSS Text-Box: Simplifying Padding Solutions](https://blog.master.dev/better-centering-with-css-text-box/?via=dailydev)                    | 9/19/26  |
 | [This CSS property fixes a problem as old as CSS](https://daily.dev/posts/this-css-property-fixes-a-problem-as-old-as-css-mxzqxx8bj)                     | 9/2/26   |
 | [5 CSS Properties You Should Know for Better Text Designs](https://master.dev/blog/typographic-css-tricks/?via=dailydev)                                 | 8/6/26   |
 | [Wait, line-height works like that?!](https://daily.dev/posts/wait-line-height-works-like-that--fqgb5s37h)                                               | 7/24/26  |
