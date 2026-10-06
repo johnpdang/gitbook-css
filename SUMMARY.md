@@ -60,6 +60,7 @@
   * [Tailwind](frameworks/tailwind.md)
 * [Freelance](freelance.md)
 * [Function](function/README.md)
+  * [Calc](function/calc.md)
   * [Progress](function/progress.md)
 * [Generator](generator.md)
 * [Git](git/README.md)
