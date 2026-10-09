@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                                                                      |          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Custom Functions in CSS](https://salehmubashar.com/blog/css-functions)                                                                                                                                              | 10/9/26  |
 | [Have you used the has selector in CSS? According to Chris Coyier, it's a game-changer.](https://app.daily.dev/posts/have-you-used-the-has-selector-in-css-according-to-chris-coyier-it-s-a-game-changer--elcwx8ftu) | 5/30/26  |
 | [The Fundamentals and Dev Experience of CSS @function – Frontend Masters Blog](https://frontendmasters.com/blog/the-fundamentals-and-dev-experience-of-css-function/?ref=dailydev)                                   | 5/29/26  |
 | [Connecting Circles With a Curved Line](https://css-tip.com/connected-circles-3/?ref=dailydev)                                                                                                                       | 5/26/26  |
