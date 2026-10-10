@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                            |           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [Decorative Images…](https://adrianroselli.com/2026/10/decorative-images.html?via=dailydev)                                                                                | 10/10/26  |
 | [Ending Responsive Images](https://master.dev/blog/ending-responsive-images/?via=dailydev)                                                                                 | 8/1/26    |
 | [I thought AVIF would make every image smaller. It didn’t.](https://stuffandnonsense.co.uk/blog/webp-to-avif-gotcha/?ref=dailydev)                                         | 7/15/26   |
 | [Switching my website images from WebP to AVIF](https://stuffandnonsense.co.uk/blog/switching-my-website-images-from-webp-to-avif/?ref=dailydev)                           | 7/12/26   |
