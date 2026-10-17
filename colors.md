@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                           |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Dark Mode CSS Variables: Build a Modern Theme with light-dark()](https://www.sitepoint.com/dark-mode-css-variables-light-dark/?via=dailydev)                             | 10/17/26 |
 | [Two vs. Three-State Color Theme Toggles – Master.dev Blog](https://blog.master.dev/two-vs-three-state-color-theme-toggles/?via=dailydev)                                 | 9/4/26   |
 | [Modern CSS colors: oklch() and color-mix()](https://daily.dev/posts/modern-css-colors-oklch-and-color-mix--elb1blipu)                                                    | 8/26/26  |
 | [Dynamic Colour Schemes With Modern CSS](https://daily.dev/posts/dynamic-colour-schemes-with-modern-css-unbd3csjb)                                                        | 8/10/26  |
