@@ -2,6 +2,7 @@
 
 |                                                                                                                                                          |          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [117 CSS text effects & animations](https://text-effects.colorion.co/?via=dailydev)                                                                      | 10/19/26 |
 | [When a Site Blocks Text Selection](https://danielabaron.me/blog/when-a-site-blocks-text-selection/?via=dailydev)                                        | 10/11/26 |
 | [neat-annotations](https://neat-annotations.syabro.com/?via=dailydev#installation)                                                                       | 9/23/26  |
 | [Understanding CSS Text-Box: Simplifying Padding Solutions](https://blog.master.dev/better-centering-with-css-text-box/?via=dailydev)                    | 9/19/26  |
