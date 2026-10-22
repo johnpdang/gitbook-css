@@ -61,6 +61,7 @@
 * [Freelance](freelance.md)
 * [Function](function/README.md)
   * [Calc](function/calc.md)
+  * [Clamp](function/clamp.md)
   * [Progress](function/progress.md)
 * [Generator](generator.md)
 * [Git](git/README.md)
