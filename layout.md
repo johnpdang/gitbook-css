@@ -2,6 +2,7 @@
 
 |                                                                                                                                                                     |          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [Native masonry layouts with CSS grid lanes](https://piccalil.li/blog/native-masonry-layouts-with-css-grid-lanes/?via=dailydev)                                     | 10/25/26 |
 | [How Websites Were Built Before Flexbox and Grid](https://www.jstools.space/blog/css-before-flexbox/?via=dailydev)                                                  | 8/3/26   |
 | [writing-mode](https://css-tricks.com/almanac/properties/w/writing-mode/?ref=dailydev)                                                                              | 7/22/26  |
 | [Masonry (with Animation) in CSS](https://master.dev/blog/masonry-with-animation-in-css/?ref=dailydev)                                                              | 7/18/26  |
