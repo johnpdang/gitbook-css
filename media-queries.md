@@ -2,6 +2,7 @@
 
 |                                                                                                                                                             |          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| [The easier way to write media queries](https://daily.dev/posts/the-easier-way-to-write-media-queries-k7erqbs9a)                                            | 11/2/26  |
 | [Media Queries Range Syntax](https://ishadeed.com/article/range-syntax/?ref=dailydev)                                                                       | 5/5/26   |
 | [What’s !important #4: Videos & View Transitions, Named Media Queries, How Browsers Work, and More](https://css-tricks.com/whats-important-4/?ref=dailydev) | 2/4/26   |
 | [Custom Media · January 23, 2026](https://nerdy.dev/custom-media?ref=dailydev)                                                                              | 1/29/26  |
